@@ -36,13 +36,7 @@ export class VideoComponentComponent implements OnInit {
         });
     });
 
-      // room.participants.forEach(participant => {
-      //   participant.tracks.forEach(publication => {
-      //     if (publication.isSubscribed) {
-      //       this.renderer.appendChild(this.remote.nativeElement, publication.track.);
-      //     }
-      //   });
-      // });
+
 
     });
   }
